@@ -1,0 +1,14 @@
+{'first_name': 'san', 'middle_name': 'kar', 'last_name': 'sample string 4', 'date_of_birth': '2000'}
+*****creating***
+{"id":7697691,"first_name":"san","middle_name":"kar","last_name":"sample string 4","date_of_birth":"2000"}
+*****creating***
+7697691
+*****tech_update***
+{"status":"true","msg":"Add  data success"}
+*****tech_update***
+*****addr_update***
+{"status":"true","msg":"Add  data success"}
+*****addr_update***
+*****fina_get***
+{"status":"true","data":{"first_name":"san","middle_name":"kar","last_name":"sample string 4","date_of_birth":"2000","TechnicalDetails":[{"id":160897,"language":["python","selenium"],"yearexp":"2","lastused":"2000","st_id":"7697691"}],"Address":[{"Permanent_Address":{"House_Number":null,"City":null,"State":null,"Country":null,"PhoneNumber":null},"Current_Address":null,"stId":"7697691"},{"Permanent_Address":{"House_Number":null,"City":null,"State":null,"Country":null,"PhoneNumber":null},"Current_Address":null,"stId":"7697691"}]}}
+*****final_get***

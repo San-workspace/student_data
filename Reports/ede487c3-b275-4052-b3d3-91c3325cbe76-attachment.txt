@@ -1,0 +1,5 @@
+<class 'dict'>
+[2]
+michael.lawson@reqres.in
+lindsay.ferguson@reqres.in
+tobias.funke@reqres.in
